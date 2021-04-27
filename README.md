@@ -1,6 +1,7 @@
 # Final-Thesis
 
 This is a repository about my final thesis. The title of my final thesis is Short-Term Load Forecasting in Khatulistiwa Power System Using Long-Short-Term Memory Method.
+
 In this final thesis, I implemented four algorithms which are Long Short Term Memory, Artificial Neural Network (MLP), Recurrent Neural Network, and Autoregressive Integrated Moving Average
 to forecast the load demand. These models then compared to the existing algorithms. 
 
